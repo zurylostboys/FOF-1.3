@@ -1,0 +1,7 @@
+added theme coffee - data.py
+remove version log player - data
+
+added theme guitar hero - Diologs.py
+added dirselect and funcion
+
+added neckspeed - guitar.py
