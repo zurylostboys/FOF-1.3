@@ -115,8 +115,8 @@ class GameResultsSceneClient(GameResultsScene, SceneClient):
       self.nextScene()
     
   def quit(self):
-    self.background = None
-    self.song = None
+    # self.background = None
+    # self.song = None
     self.engine.view.popLayer(self.menu)
     self.session.world.finishGame()
     
